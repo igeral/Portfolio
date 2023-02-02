@@ -533,15 +533,15 @@ h6 {
 }
 
 .aali_tm_header .menu ul li a:hover {
-	color: #ea4343;
+	color: #66B95C;
 }
 
 .aali_tm_header .menu ul li.current a {
-	color: #ea4343;
+	color: #66B95C;
 }
 
 .aali_tm_header.animate .menu ul li.current a {
-	color: #ea4343;
+	color: #66B95C;
 }
 
 .aali_tm_header.animate .menu ul li a {
@@ -549,7 +549,7 @@ h6 {
 }
 
 .aali_tm_header.animate .menu ul li a:hover {
-	color: #ea4343;
+	color: #66B95C;
 }
 
 /*---------------------------------------------------*/
@@ -594,7 +594,7 @@ h6 {
 .aali_tm_hero .content .name {
 	font-size: 150px;
 	font-weight: 700;
-	color: #ea4343;
+	color: #66B95C;
 	letter-spacing: -.2px;
 	line-height: 1.1;
 }
@@ -645,7 +645,7 @@ h6 {
 }
 
 .aali_tm_button.border .svg {
-	color: #ea4343;
+	color: #66B95C;
 }
 
 .aali_tm_button a {
@@ -653,12 +653,12 @@ h6 {
 	color: #fff;
 	font-family: "Josefin Sans";
 	display: inline-block;
-	background-color: #ea4343;
+	background-color: #66B95C;
 	font-weight: 700;
 	position: relative;
 	padding: 15px 73px 15px 46px;
 	border-radius: 6px;
-	border: 2px solid #ea4343;
+	border: 2px solid #66B95C;
 	white-space: nowrap;
 
 	-webkit-transition: all .3s ease;
@@ -686,7 +686,7 @@ h6 {
 }
 
 .aali_tm_button.border a:hover {
-	background-color: #ea4343;
+	background-color: #66B95C;
 	color: #fff;
 }
 
@@ -805,7 +805,7 @@ h6 {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background-color: #ea4343;
+	background-color: #66B95C;
 }
 
 .aali_tm_hero .avatar .two {
@@ -821,7 +821,7 @@ h6 {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background-color: #ea4343;
+	background-color: #66B95C;
 }
 
 .aali_tm_hero .avatar .three {
@@ -837,7 +837,7 @@ h6 {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background-color: #ea4343;
+	background-color: #66B95C;
 }
 
 .aali_tm_hero .avatar .four {
@@ -887,7 +887,7 @@ h6 {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background-color: #ea4343;
+	background-color: #66B95C;
 }
 
 .aali_tm_hero .socials {
@@ -927,7 +927,7 @@ h6 {
 }
 
 .aali_tm_hero .socials ul a:hover {
-	color: #ea4343;
+	color: #66B95C;
 }
 
 .aali_tm_hero .hero_mail {
@@ -993,7 +993,7 @@ h6 {
 	position: absolute;
 	width: 270px;
 	height: 270px;
-	background-color: #ea4343;
+	background-color: #66B95C;
 	bottom: -80px;
 	left: -65px;
 	z-index: 0;
@@ -1032,7 +1032,7 @@ h6 {
 	font-family: "Josefin Sans";
 	font-size: 24px;
 	font-weight: 700;
-	color: #ea4343;
+	color: #66B95C;
 	letter-spacing: -.2px;
 	display: inline-block;
 	margin-bottom: 6px;
@@ -1045,7 +1045,7 @@ h6 {
 }
 
 .aali_tm_about .center h3 span {
-	color: #ea4343;
+	color: #66B95C;
 }
 
 .aali_tm_about .center .subtitle {
@@ -1105,7 +1105,7 @@ h6 {
 .aali_tm_about .right .square {
 	width: 1000px;
 	height: 390px;
-	background-color: #ea4343;
+	background-color: #66B95C;
 	position: absolute;
 	left: 100%;
 	margin-left: -200px;
@@ -1180,7 +1180,7 @@ h6 {
 .aali_tm_main_title span {
 	font-size: 24px;
 	font-family: "Josefin Sans";
-	color: #ea4343;
+	color: #66B95C;
 	font-weight: 700;
 	letter-spacing: -.2px;
 	;
@@ -1805,7 +1805,7 @@ h6 {
 	position: absolute;
 	width: 157px;
 	height: 227px;
-	background-color: #ea4343;
+	background-color: #66B95C;
 	top: 35px;
 	right: 0px;
 }
@@ -1888,7 +1888,7 @@ h6 {
 
 .aali_tm_service .service_list .price span {
 	font-size: 30px;
-	color: #ea4343;
+	color: #66B95C;
 }
 
 .aali_tm_service .service_list .icon {
@@ -1994,7 +1994,7 @@ h6 {
 
 .aali_tm_modalbox .service_popup_informations .main_title span span {
 	font-size: 30px;
-	color: #ea4343;
+	color: #66B95C;
 }
 
 .aali_tm_modalbox .service_popup_informations .descriptions {
@@ -2066,7 +2066,7 @@ h6 {
 	content: "";
 	width: 30px;
 	height: 6px;
-	background-color: #ea4343;
+	background-color: #66B95C;
 	top: 50%;
 	transform: translateY(-50%);
 	left: 0px;
@@ -2079,7 +2079,7 @@ h6 {
 	width: 48px;
 	height: 48px;
 	border-radius: 100%;
-	background-color: #ea4343;
+	background-color: #66B95C;
 }
 
 .aali_tm_resume .icon .svg {
@@ -2182,7 +2182,7 @@ h6 {
 .aali_tm_resume .media .square {
 	width: 125px;
 	height: 125px;
-	background-color: #ea4343;
+	background-color: #66B95C;
 	position: absolute;
 	top: 100px;
 	right: 100%;
@@ -2464,7 +2464,7 @@ h6 {
 
 .aali_tm_news .news_list ul li .details .category a {
 	text-decoration: none;
-	color: #ea4343;
+	color: #66B95C;
 	font-weight: 700;
 	font-family: "Josefin Sans";
 }
@@ -2488,7 +2488,7 @@ h6 {
 }
 
 .aali_tm_news .news_list ul li .details .title a:hover {
-	color: #ea4343;
+	color: #66B95C;
 }
 
 .aali_tm_news .news_list ul li .date {
@@ -2512,7 +2512,7 @@ h6 {
 	color: #15111e;
 	font-family: "Josefin Sans";
 	letter-spacing: -.2px;
-	border: 2px solid #ea4343;
+	border: 2px solid #66B95C;
 	border-radius: 6px;
 	font-weight: 700;
 	padding: 15px 45px 15px 46px;
@@ -2526,7 +2526,7 @@ h6 {
 }
 
 .aali_tm_learn_more a:hover {
-	background-color: #ea4343;
+	background-color: #66B95C;
 	color: #fff;
 }
 
@@ -2777,13 +2777,13 @@ h6 {
 .aali_tm_contact .left ul li h3 {
 	font-size: 30px;
 	font-weight: 700;
-	color: #ea4343;
+	color: #66B95C;
 	letter-spacing: -.2px;
 }
 
 .aali_tm_contact .left ul li a {
 	text-decoration: none;
-	color: #ea4343;
+	color: #66B95C;
 }
 
 .aali_tm_contact .right {
@@ -2963,7 +2963,7 @@ input[type=number] {
 	border-radius: 100%;
 	text-align: center;
 	line-height: 48px;
-	color: #ea4343;
+	color: #66B95C;
 
 	-webkit-transition: all .3s ease;
 	-moz-transition: all .3s ease;
@@ -2973,7 +2973,7 @@ input[type=number] {
 }
 
 .aali_tm_copyright .social ul li a:hover {
-	background-color: #ea4343;
+	background-color: #66B95C;
 	color: #fff;
 }
 
@@ -3059,7 +3059,7 @@ input[type=number] {
 	height: 143px;
 	top: -77px;
 	right: 60px;
-	background-color: #ea4343;
+	background-color: #66B95C;
 }
 
 .aali_tm_copyright .square a {
@@ -3140,7 +3140,7 @@ input[type=number] {
 	width: 6px;
 	height: 6px;
 	z-index: 100;
-	background-color: #ea4343;
+	background-color: #66B95C;
 	-webkit-transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
 	transition: width .3s ease-in-out, height .3s ease-in-out, margin .3s ease-in-out, opacity .3s ease-in-out;
 }
@@ -3150,7 +3150,7 @@ input[type=number] {
 	margin-top: -40px;
 	width: 80px;
 	height: 80px;
-	background-color: #ea4343;
+	background-color: #66B95C;
 	opacity: .3;
 }
 
@@ -3159,7 +3159,7 @@ input[type=number] {
 	margin-top: -15px;
 	width: 30px;
 	height: 30px;
-	border: 2px solid #ea4343;
+	border: 2px solid #66B95C;
 	-webkit-box-sizing: border-box;
 	box-sizing: border-box;
 	z-index: 100;
